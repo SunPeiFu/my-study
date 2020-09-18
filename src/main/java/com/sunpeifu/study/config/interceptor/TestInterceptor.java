@@ -2,7 +2,6 @@ package com.sunpeifu.study.config.interceptor;
 
 import com.sunpeifu.study.config.interceptor.annotation.IgnoreCheck;
 import com.sunpeifu.study.config.interceptor.annotation.MustCheck;
-import jdk.nashorn.internal.ir.annotations.Ignore;
 import org.springframework.web.method.HandlerMethod;
 import org.springframework.web.servlet.HandlerInterceptor;
 
